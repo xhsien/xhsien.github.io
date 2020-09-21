@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Unsigned Int"
+title                    : "Sotong's Blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Boo Kai Hsien"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Boo Kai Hsien"
   avatar           : "/assets/avatar.jpg"
-  bio              : "Coder. Learner. Educator."
+  bio              : "No life software engineer."
   location         : "Singapore"
   email            :
   links:
