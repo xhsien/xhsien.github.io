@@ -38,6 +38,14 @@ categories: recipe baking cake
 11. Remove aluminium foil.
 12. Bake for 20 minutes at 155 degree.
 
+## Personal Notes
+
+1. Ring mould allows the cake to hold its shape better. Without the ring, the center of the cake rises the highest and cracks will form.
+2. Slowly add in sugar while beating the egg whites. Sugar keeps the form of the meringue. Do not use icing sugar.
+3. Use the folding technique when mixing the meringue and the batter. This prevents over-beating the egg whites.
+4. Add in only 1/3 of the meringue and mix well, then only add in the remaining meringue. Otherwise it will be difficult to mix well.
+5. Slowly pour the batter into the mould to release large air bubbles in the batter.
+
 ## References
 
 [小高姐 - 戚风蛋糕](https://youtu.be/nYQ5uc6plCs)
