@@ -1,8 +1,8 @@
 ---
 layout: single
 toc: true
-title:  "Basic Chiffon Cake Recipe"
-date:   2020-09-21 00:00:00 +0800
+title: "Basic Chiffon Cake Recipe"
+date: 2020-09-21 00:00:00 +0800
 categories: recipe baking cake
 ---
 
