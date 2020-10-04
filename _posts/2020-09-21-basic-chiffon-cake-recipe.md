@@ -11,8 +11,9 @@ categories: recipe baking cake
 1. Cake flour 100g
 2. Egg x5
 3. Milk 75g
-4. Vegetable oil 75g
-5. Vinegar 10g
+4. Sugar 75g
+5. Vegetable oil 75g
+6. Vinegar 10g
 
 ## Equipments
 
