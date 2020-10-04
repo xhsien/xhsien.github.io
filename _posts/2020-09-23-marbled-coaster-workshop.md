@@ -1,6 +1,6 @@
 ---
 layout: single
-toc: true
+toc: false
 title: "Marbled Coaster Workshop @ Google"
 date: 2020-09-23 00:00:00 +0800
 categories: google fun
