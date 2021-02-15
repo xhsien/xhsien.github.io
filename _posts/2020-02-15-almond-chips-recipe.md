@@ -27,7 +27,7 @@ Each time I use 166g of almonds and 83g of florentine, so I repeated the steps f
 1. Cover the baking tray with a sheet of baking paper.
 2. Spread the almond slices evenly on the baking paper.
 3. Toast the almonds in the oven at 190 degree for 3 to 4 minutes.
-4. Sprinkle the florentine powder evenly on top of the almonds.
+4. Mix the florentine powder with the almonds.
 5. Bake in the oven again at 190 degree for another 8 to 9 minutes.
 6. While it is still hot, use a knife to cut it into pieces.
 
