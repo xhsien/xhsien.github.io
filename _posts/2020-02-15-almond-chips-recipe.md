@@ -2,7 +2,7 @@
 layout: single
 toc: false
 title: "Almond Chips Recipe"
-date: 2021-02-015 00:00:00 +0800
+date: 2021-02-15 00:00:00 +0800
 categories: recipe baking cookie
 ---
 
