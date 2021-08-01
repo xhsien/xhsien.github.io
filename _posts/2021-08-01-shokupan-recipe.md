@@ -39,4 +39,4 @@ Shokupan is a Japanese milk bread. We had been experimenting a few times to get 
 
 ## Reference
 
-This is the recipe we started from: https://www.youtube.com/watch?v=ybVKKaCN7iI
+[Here](https://www.youtube.com/watch?v=ybVKKaCN7iI) is the recipe we started from.
