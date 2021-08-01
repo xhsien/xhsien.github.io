@@ -6,7 +6,7 @@ date: 2021-08-01 00:00:00 +0800
 categories: recipe bread
 ---
 
-Shokupan is a Japanese milk bread. We had been experimenting a few times to get the most satisfying load, so hope you'll enjoy!
+Shokupan is a Japanese milk bread. We had been experimenting a few times to get the most satisfying loaf, so hope you'll enjoy!
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Shokupan is a Japanese milk bread. We had been experimenting a few times to get 
 2. Add all the dry ingredients (**bread flour**, **sugar**, **salt** and **milk powder**) into a KitchenAid mixing bowl.
 3. Add the liquid and mix until homogeneous.
 4. Add butter.
-5. Use the dough hook attachment and mix at speed 2 for 40 minutes or until dough does not stick to the bowl.
+5. Use the dough hook attachment and mix at speed 2 for 30 minutes or until dough does not stick to the bowl.
 6. Cover with cling wrap and rest until dough doubles in volume.
 7. Grease the bread tin with butter.
 8. Shape the dough into the bread tin.
@@ -36,3 +36,7 @@ Shokupan is a Japanese milk bread. We had been experimenting a few times to get 
 ![Shokupan]({{ site.url }}{{ site.baseurl }}/assets/images/2021-08-01-shokupan-recipe/shokupan.jpg)
 
 ![Shokupan sliced]({{ site.url }}{{ site.baseurl }}/assets/images/2021-08-01-shokupan-recipe/shokupan-sliced.jpg)
+
+## Reference
+
+This is the recipe we started from: https://www.youtube.com/watch?v=ybVKKaCN7iI
